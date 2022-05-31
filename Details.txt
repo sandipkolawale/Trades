@@ -1,0 +1,12 @@
+1. Upper Channel
+2. Zig Zag
+
+
+
+Mistake : Early entry, entry before Break out
+Proper Stoploss not maintained , 
+
+Entry should be after 11 Pm for early days
+
+
+Total = - 2567
